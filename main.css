@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+ font-family: 'Tahoma';
+    margin: 0;
+    
+}
+
+html,body{
+    height: 100%;
+background: linear-gradient(to bottom,red,skyblue);
+}
+
+
+
+.container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.content-area{
+   
+}
+
+header{
+    letter-spacing: .3em;
+    font-weight: 3em;
+    padding: 2em;
+    border: 1px solid black;
+}
+
+
+.PickerHeading{
+    letter-spacing: .3em;
+    font-weight: 2em;
+    font-size: 3em;
+    margin: .5em;
+}
+
+h2{
+    letter-spacing: .2em;
+    margin-top: 1em;
+}
+
+.text1,.text2{
+    width: 4em;
+    padding: .3em;
+    margin-top: .5em;
+    margin-bottom: 1em;
+}
+
+.div{
+    font-size: 1.5em;
+}
+
+.color1 ,.color2{
+
+    width: 4.5em;
+    padding: .5em;
+    border-radius: 100px;
+}
