@@ -56,7 +56,7 @@ h2{
 }
 
 .color1 ,.color2{
-
+outline: none;
     width: 4.5em;
     padding: .5em;
     border-radius: 100px;
